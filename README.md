@@ -1,3 +1,3 @@
 # coding-projects
 Coding Projects
-# Coding Projects that I'm learning
+# Coding Projects I'm working on.
